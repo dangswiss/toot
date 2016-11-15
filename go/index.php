@@ -2,7 +2,6 @@
   <head>
 
     <?php require_once('headers.php'); ?>
-    <?php require_once('hex.php'); ?>
 
   </head>
 
